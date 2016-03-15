@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">TM_Homework09</string>
+    <string name="hello_user">Hello</string>
+    <string name="hint_login">Login</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_surname">Surname</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="empty_field_toast">Fill all fields!!!</string>
+    <string name="diolog_user">User</string>
+    <string name="dialog_registrated">registrated</string>
 </resources>
